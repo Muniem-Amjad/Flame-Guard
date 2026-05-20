@@ -61,6 +61,48 @@
       "top": -185.6,
       "left": 303.2,
       "attrs": { "pins": "i2c" }
+    },
+    {
+      "type": "wokwi-text",
+      "id": "lbl1",
+      "top": -19.2,
+      "left": 124.8,
+      "attrs": { "text": "DHT22 Sensor" }
+    },
+    {
+      "type": "wokwi-text",
+      "id": "lbl2",
+      "top": -9.6,
+      "left": 633.6,
+      "attrs": { "text": "LDR Light Sensor" }
+    },
+    {
+      "type": "wokwi-text",
+      "id": "lbl3",
+      "top": 288,
+      "left": 499.2,
+      "attrs": { "text": "Arduino UNO" }
+    },
+    {
+      "type": "wokwi-text",
+      "id": "lbl4",
+      "top": 38.4,
+      "left": 499.2,
+      "attrs": { "text": "Buzzer" }
+    },
+    {
+      "type": "wokwi-text",
+      "id": "lbl7",
+      "top": -211.2,
+      "left": 355.2,
+      "attrs": { "text": "16x2 (12C) LCD Display" }
+    },
+    {
+      "type": "wokwi-text",
+      "id": "lbl5",
+      "top": -38.4,
+      "left": 393.6,
+      "attrs": { "text": "LED Indicator" }
     }
   ],
   "connections": [
